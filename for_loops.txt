@@ -1,0 +1,7 @@
+a)
+for j in range (5):
+    print(j * 3 - 2)
+
+b) 
+for j in range (-2, 11, 3):
+    print(j)
